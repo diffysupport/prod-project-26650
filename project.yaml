@@ -17,6 +17,7 @@ basic:
         - /
         - /communities
         - /stories
+        - /programs
     monitoring:
         days: {  }
         type: ''
